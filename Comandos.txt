@@ -1,0 +1,13 @@
+npm create vite@latest
+  Começa o projeto 
+    React Ts
+
+Tailwind (https://tailwindcss.com/docs/guides/vite)
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+
+Radix (https://www.radix-ui.com/primitives/docs/components/dialog)
+  npm install @radix-ui/react-dialog
+
+Para formatar a data
+  npm i date-fns
